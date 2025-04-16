@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Le Wagon News Only</title>
+<link>https://blog.lewagon.com/news/</link>
+<description>Filtered feed for /news/ posts only</description>
+</channel>
+</rss>
