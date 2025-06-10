@@ -1,8 +1,245 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-<channel>
-<title>The Verge – AI &amp OpenAI Filtered Feed</title>
-<link>https://www.theverge.com/</link>
-<description>Filtered feed showing only AI or OpenAI posts</description>
-</channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:thr="http://purl.org/syndication/thread/1.0" xml:lang="en-US">
+<title type="text">AI | The Verge</title>
+<subtitle type="text">The Verge is about technology and how it makes us feel. Founded in 2011, we offer our audience everything from breaking news to reviews to award-winning features and investigations, on our site, in video, and in podcasts.</subtitle>
+<updated>2025-06-10T13:18:27+00:00</updated>
+<link rel="alternate" type="text/html" href="https://www.theverge.com/ai-artificial-intelligence"/>
+<id>https://www.theverge.com/rss/tech/ai-artificial-intelligence/index.xml</id>
+<link rel="self" type="application/atom+xml" href="https://www.theverge.com/rss/tech/ai-artificial-intelligence/index.xml"/>
+<icon>https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-rss-large_80b47e.png?w=150&h=150&crop=1</icon>
+<entry>
+<author>
+<name>Tom Warren</name>
+</author>
+<title type="html">
+<![CDATA[ Microsoft Edge is getting an AI-powered browser history that works with typos ]]>
+</title>
+<link rel="alternate" type="text/html" href="https://www.theverge.com/news/684195/microsoft-edge-ai-browser-history-search-feature"/>
+<id>https://www.theverge.com/?p=684195</id>
+<updated>2025-06-10T08:54:37-04:00</updated>
+<published>2025-06-10T08:54:37-04:00</published>
+<category scheme="https://www.theverge.com" term="AI"/>
+<category scheme="https://www.theverge.com" term="Microsoft"/>
+<category scheme="https://www.theverge.com" term="News"/>
+<category scheme="https://www.theverge.com" term="Tech"/>
+<category scheme="https://www.theverge.com" term="Web"/>
+<summary type="html">
+<![CDATA[ Microsoft has started testing a new feature for its Edge browser that adds an AI-powered search to browsing history. This new “enhanced search” feature lets you find websites in your browser history even if you use a phrase, synonym, or even a typo that’s similar to the site you actually want to find. The AI-powered [&#8230;] ]]>
+</summary>
+<content type="html">
+<![CDATA[ <figure> <img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24385268/STK148_Microsoft_Edge_1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" /> <figcaption></figcaption> </figure> <p class="has-text-align-none">Microsoft has started testing a new feature for its Edge browser that adds an AI-powered search to browsing history. This new “enhanced search” feature lets you find websites in your browser history even if you use a phrase, synonym, or even a typo that’s similar to the site you actually want to find.</p> <p class="has-text-align-none">The AI-powered history search started appearing in beta versions of Microsoft Edge last week. “After this feature is turned on, sites you visit will be shown in enhanced history search results,” explains Microsoft in its <a href="https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-beta-channel">beta channel release notes</a>. “An on-device model is trained using your data, which never leaves your device and is never sent to Microsoft.”</p> <p class="has-text-align-none">This optional feature seems like less of a privacy risk than <a href="https://www.theverge.com/2024/12/12/24319609/microsoft-recall-hands-on-notepad">Microsoft’s Recall feature</a> that screenshots most of what you do on a Copilot Plus PC to make it easier to search for websites, photos, and documents. The use of an on-device model that’s limited to your browser history is certainly better than having to store everything on your screen in a local database.</p> <p class="has-text-align-none">Alongside the AI-powered browsing history, Microsoft is also adding a media control center to Edge that lets you control multiple media sources from websites. This media control center includes quick access to Edge’s picture-in-picture mode, which itself is <a href="https://www.theverge.com/news/681499/microsoft-edges-picture-in-picture-mode-is-getting-better-controls">getting better controls</a>, and the ability to control music, video, or other sounds that are playing inside Edge.</p> ]]>
+</content>
+</entry>
+<entry>
+<author>
+<name>Tom Warren</name>
+</author>
+<title type="html">
+<![CDATA[ Starling&#8217;s AI banking tool shows you how much you&#8217;re wasting on McDonald’s ]]>
+</title>
+<link rel="alternate" type="text/html" href="https://www.theverge.com/news/684121/starling-bank-ai-tool-enhanced-search-spending-habits"/>
+<id>https://www.theverge.com/?p=684121</id>
+<updated>2025-06-10T06:57:54-04:00</updated>
+<published>2025-06-10T06:57:54-04:00</published>
+<category scheme="https://www.theverge.com" term="AI"/>
+<category scheme="https://www.theverge.com" term="Business"/>
+<category scheme="https://www.theverge.com" term="News"/>
+<category scheme="https://www.theverge.com" term="Tech"/>
+<summary type="html">
+<![CDATA[ Starling Bank, one of the UK’s digital challenger banks, has launched a new AI-powered tool that will answer questions about your spending habits. You can now easily find out how much you’ve spent at Amazon in a particular month, how much money you’ve wasted on fast food outlets over the past year, or how much [&#8230;] ]]>
+</summary>
+<content type="html">
+<![CDATA[ <figure> <img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/starlingbank.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" /> <figcaption></figcaption> </figure> <p class="has-text-align-none">Starling Bank, one of the UK’s digital challenger banks, has launched a new AI-powered tool that will answer questions about your spending habits. You can now easily find out how much you’ve spent at Amazon in a particular month, how much money you’ve wasted on fast food outlets over the past year, or how much cash you’ve received over a particular period.</p> <p class="has-text-align-none">Starling’s AI tool, or enhanced search as the bank calls it, is an opt-in feature that enables a prompt where you can ask questions about your spending habits. The tool, built with Google Gemini, even suggests prompts that are personalized to your spending patterns.</p> <img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/starlingaitool.jpg?quality=90&#038;strip=all&#038;crop=0,13.129562716614,100,73.740874566772" alt="" title="" data-has-syndication-rights="1" data-caption="&lt;em&gt;Starling’s enhanced search lets you dig into all your spending habit data.&lt;/em&gt; | Screenshot by Tom Warren / The Verge" data-portal-copyright="Screenshot by Tom Warren / The Verge" /> <p class="has-text-align-none">Transactions are listed by retailer and are automatically sorted into more than 50 customizable categories, like bills, transport, and groceries. This makes it easy to see how much you’ve spent at a particular retailer over a period of time, or how much you’ve spent on categories like eating out. I checked to see how much I’ve spent on McDonald’s over the past year, and let’s just say I’m off Big Macs for the foreseeable future.</p> <p class="has-text-align-none">You’ll be presented with a graph and analytics about your spending habits, along with a breakdown of individual payments to retailers in a particular category. It helps address the problem of having the ability to track your payments to retailers in banking apps, but not being able to easily manipulate that data and really understand your finances.</p> <p class="has-text-align-none">“We believe that anyone and everyone can be ‘Good with money,’ so we’ve designed this feature so that people can engage with their finances in a way that feels natural to them,” says Harriet Rees, CIO of Starling Bank. “The more you talk or type, the more you’ll learn about your money management.”</p> <p class="has-text-align-none">Starling is one of a few <a href="https://www.theverge.com/2019/6/13/18663036/monzo-starling-mobile-banks-uk-report">big digital banks</a> in the UK that have taken a mobile-only approach to try and shake up banking in Britain. Starling now has 4.6 million customer accounts, competing against Monzo’s <a href="https://monzo.com/annual-report">more than 12 million</a> customers and Revolut’s <a href="https://www.revolut.com/news/revolut_reaches_10_million_customers_in_the_uk/">more than 10 million</a>. All three are still far ahead of traditional banks in digital features, including <a href="https://www.theverge.com/2022/12/8/23499742/starling-bank-virtual-cards-feature">virtual debit cards</a>, the ability to track spending habits, and real-time transactions.</p> ]]>
+</content>
+</entry>
+<entry>
+<author>
+<name>Jess Weatherbed</name>
+</author>
+<title type="html">
+<![CDATA[ ChatGPT is having some issues ]]>
+</title>
+<link rel="alternate" type="text/html" href="https://www.theverge.com/news/684141/openai-chatgpt-sora-outage-issues-june-2025"/>
+<id>https://www.theverge.com/?p=684141</id>
+<updated>2025-06-10T09:02:55-04:00</updated>
+<published>2025-06-10T05:39:55-04:00</published>
+<category scheme="https://www.theverge.com" term="AI"/>
+<category scheme="https://www.theverge.com" term="News"/>
+<category scheme="https://www.theverge.com" term="OpenAI"/>
+<category scheme="https://www.theverge.com" term="Tech"/>
+<summary type="html">
+<![CDATA[ OpenAI’s ChatGPT service is currently down for some users after the platform started experiencing performance issues on Tuesday morning. The chatbot responded with a “Hmm…something seems to have gone wrong” error message to my colleague after failing to load, and users across X and Reddit are reporting platform outages. Downdetector is showing that issues started [&#8230;] ]]>
+</summary>
+<content type="html">
+<![CDATA[ <figure> <img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_2025_CVirgiia_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" /> <figcaption></figcaption> </figure> <p class="has-text-align-none">OpenAI’s ChatGPT service is currently down for some users after the platform started experiencing performance issues on Tuesday morning. The chatbot responded with a “Hmm…something seems to have gone wrong” error message to my colleague after failing to load, and users across <a href="https://x.com/0xweb3diva/status/1932364866221690971">X</a> and <a href="https://www.reddit.com/r/ChatGPT/new/">Reddit</a> are reporting platform outages.</p> <p class="has-text-align-none">Downdetector is showing that <a href="https://downdetector.com/status/openai/?nogeo=true&amp;_gl=1*z2a9pv*_ga*MjE0MDE3ODMzNy4xNzQ4OTM1ODAz*_ga_0PZM58H213*czE3NDk1NDY0MjUkbzMkZzEkdDE3NDk1NDcwNjYkajU3JGwwJGgw">issues started at around 3AM ET</a>, with multiple regions impacted globally. <a href="https://status.openai.com/">OpenAI’s own status page</a> said that some users started experiencing “elevated error rates and latency” at that time, noting that the issues were affecting ChatGPT, its Sora text-to-video AI tool, and OpenAI APIs. As of OpenAI added a separate line for “elevated error rates on Sora” at 5:23AM ET, and later updated the status for both to “partial outage.”</p> <p class="has-text-align-none">OpenAI has since updated its status page with a consolidated message. “We have identified the root cause for the issue causing elevated errors and latency across the listed services,” the company says. “We are working on implementing a mitigation.” </p> <p class="has-text-align-none">Some users are able to access ChatGPT, but finding that the service is sluggish and taking much longer than usual to respond. Others like myself are able to use the chatbot without any issues, so the outages and errors don’t seem to be impacting every user.</p> <p class="has-text-align-none">Perplexity, the AI search engine service that utilizes some OpenAI models, is also experiencing outages and reporting “<a href="https://status.perplexity.com/cmbqglc8x00019b4dw876rm5a">slowness and elevated error rates</a>” on its status page. <a href="https://downdetector.com/status/perplexityai/">Perplexity’s issues started at around 7AM ET</a>, according to Downdetector, but the problem is likely connected to the OpenAI outages. </p> <p class="has-text-align-none"><em><strong>Update, June 10th:</strong> Added information about Perplexity outages.</em></p> <p class="has-text-align-none"><em><strong>Update, June 10th: </strong>Added that OpenAI has identified the issue and is working on a fix.</em></p> ]]>
+</content>
+</entry>
+<entry>
+<author>
+<name>Allison Johnson</name>
+</author>
+<title type="html">
+<![CDATA[ WWDC 2025: all the news from Apple&#8217;s annual developer conference ]]>
+</title>
+<link rel="alternate" type="text/html" href="https://www.theverge.com/tech/681646/apple-wwdc-2025-news-rumors-ios-26"/>
+<id>https://www.theverge.com/?post_type=vm_stream&p=681646</id>
+<updated>2025-06-10T09:18:27-04:00</updated>
+<published>2025-06-09T20:39:13-04:00</published>
+<category scheme="https://www.theverge.com" term="AI"/>
+<category scheme="https://www.theverge.com" term="Apple"/>
+<category scheme="https://www.theverge.com" term="Apple Event"/>
+<category scheme="https://www.theverge.com" term="iPad"/>
+<category scheme="https://www.theverge.com" term="iPhone"/>
+<category scheme="https://www.theverge.com" term="macOS"/>
+<category scheme="https://www.theverge.com" term="News"/>
+<category scheme="https://www.theverge.com" term="Tech"/>
+<category scheme="https://www.theverge.com" term="WWDC 2025"/>
+<summary type="html">
+<![CDATA[ The stakes are higher than usual at this year’s WWDC. Major Apple Intelligence features the company teased at last year’s conference are stalled out, the company got a stern talking-to from a federal judge a couple of months ago over its App Store policies, and then there’s everything going on with tariffs. It’s not an [&#8230;] ]]>
+</summary>
+<content type="html">
+<![CDATA[ <figure> <img alt="WWDC 25" data-caption="Let’s see what Cook is cooking." data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK469_WWDC_1_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" /> <figcaption>Let’s see what Cook is cooking.</figcaption> </figure> <p class="has-text-align-none">The stakes are higher than usual at this year’s WWDC. Major Apple Intelligence features the company teased at last year’s conference <a href="https://www.theverge.com/news/626035/apple-delays-upgraded-siri-intelligence-longer-than-we-thought">are stalled out</a>, the company got <a href="https://www.theverge.com/news/659246/apple-epic-app-store-judge-ruling-control">a stern talking-to</a> from a federal judge a couple of months ago over its App Store policies, and then there’s everything going on with <a href="https://www.theverge.com/news/673424/trump-apple-iphone-tariff-25-percent-india">tariffs.</a> It’s not an entirely enviable position, but the show goes on. </p> <p class="has-text-align-none">Apple <a href="https://www.theverge.com/news/682769/apple-wwdc-2025-biggest-announcements-ios-26">announced a slew of platform operating system updates</a> with its latest design language, <a href="https://www.theverge.com/news/678305/apple-ios-26-wwdc-2025">called Liquid Glass</a>, and a new yearly naming scheme. <a href="https://www.theverge.com/news/678305/apple-ios-26-wwdc-2025" data-type="link" data-id="https://www.theverge.com/news/678305/apple-ios-26-wwdc-2025">iOS 26</a>, <a href="https://www.theverge.com/news/678268/macos-version-wwdc-2025-announcement" data-type="link" data-id="https://www.theverge.com/news/678268/macos-version-wwdc-2025-announcement">macOS Tahoe 26</a>, <a href="https://www.theverge.com/news/681139/apple-tv-tvos-26-wwdc-features" data-type="link" data-id="https://www.theverge.com/news/681139/apple-tv-tvos-26-wwdc-features">tvOS 26</a>, <a href="https://www.theverge.com/news/679225/apple-watchos-26-wwdc-features" data-type="link" data-id="https://www.theverge.com/news/679225/apple-watchos-26-wwdc-features">watchOS 26</a>, <a href="https://www.theverge.com/news/678882/apple-vision-pro-visionos-26-announced" data-type="link" data-id="https://www.theverge.com/news/678882/apple-vision-pro-visionos-26-announced">visionOS 26</a>, and more. It’s also opening up access to on-device Apple Intelligence for app developers and <a href="https://www.theverge.com/apple/683334/apples-image-playground-now-integrates-with-chatgpt">plugging ChatGPT into Image Playground</a>.</p> <p class="has-text-align-none">A <a href="https://www.theverge.com/news/678319/apple-games-app-wwdc-2025">new Games app</a> connects you to your friends, AirPods have <a href="https://www.theverge.com/news/682852/apple-airpods-update-wwdc-2025">added camera controls</a>, and the <a href="https://www.theverge.com/apple/682950/apple-spotlight-mac-shortcuts">planned update for Spotlight</a> “looks like a power user dream,” according to David Pierce. Oh, and did we mention the <a href="https://www.theverge.com/apple/679420/apple-ipados-wwdc-2025">multitasking improvements on the way for iPadOS</a>?</p> <p class="has-text-align-none"><em>Read on below for all of the updates from Apple’s WWDC 2025 event.</em></p> <div class="youtube-embed"><iframe title="Apple WWDC 2025 keynote in 28 minutes" src="https://www.youtube.com/embed/1PQ_pQI6be8?rel=0" allowfullscreen allow="accelerometer *; clipboard-write *; encrypted-media *; gyroscope *; picture-in-picture *; web-share *;"></iframe></div><ul> <li> <a href="https://www.theverge.com/ipad/684229/ipados-26-hands-on-multitasking-mac">Hang on, did the iPad just become a computer?</a> </li> <li> <a href="https://www.theverge.com/the-vergecast/684193/liquid-glass-spotlight-wwdc-2025-apple-vergecast">Liquid Glass, Spotlight, and the rest of WWDC 2025</a> </li> <li> <a href="https://www.theverge.com/news/684163/apple-journal-app-ipad-mac-support-availability">Apple brings the iPhone Journal app to iPad and Mac</a> </li> <li> <a href="https://www.theverge.com/apple/683914/apple-iphone-ios-26-changes-liquid-glass">Apple&#8217;s Liquid Glass was a wild change to my iPhone</a> </li> <li> <a href="https://www.theverge.com/news/683973/dualsense-controllers-are-getting-improved-pairing">DualSense controllers are getting improved pairing.</a> </li> <li> <a href="https://www.theverge.com/news/682769/apple-wwdc-2025-biggest-announcements-ios-26">Apple WWDC 2025: the 13 biggest announcements</a> </li> <li> <a href="https://www.theverge.com/news/683846/macos-tahoe-intel-x86-arm-m-cpu">Apple’s big updates for Intel-based Macs will end with Tahoe</a> </li> <li> <a href="https://www.theverge.com/apple/682984/apple-punts-on-siri-updates-as-it-struggles-to-keep-up-in-the-ai-race">Apple punts on Siri updates as it struggles to keep up in the AI race</a> </li> <li> <a href="https://www.theverge.com/news/683820/cyberpunk-2077-needs-a-bit-more-time-for-mac">Cyberpunk 2077 needs a bit more time for Mac.</a> </li> <li> <a href="https://www.theverge.com/news/683738/apple-iphone-ios-26-changes-liquid-glass-wwdc-2025">The biggest changes coming to your iPhone with iOS 26</a> </li> <li> <a href="https://www.theverge.com/news/683708/which-wwdc-2025-announcement-was-our-favorite">Which WWDC 2025 announcement was our favorite?</a> </li> <li> <a href="https://www.theverge.com/apple/682833/apples-liquid-glass-redesign-doesnt-look-like-much">Apple’s Liquid Glass redesign doesn’t look like much</a> </li> <li> <a href="https://www.theverge.com/news/682871/apple-developer-beta-ios-26-watchos-26-macos-availability">The first developer betas for iOS 26, macOS Tahoe, iPadOS 26, and more are now available</a> </li> <li> <a href="https://www.theverge.com/apple/682950/apple-spotlight-mac-shortcuts">Apple’s Spotlight upgrades look like a power-user dream</a> </li> <li> <a href="https://www.theverge.com/news/683028/a-better-mouse-pointer-on-ipad">A better mouse pointer on iPad!</a> </li> <li> <a href="https://www.theverge.com/news/678319/apple-games-app-wwdc-2025">Apple’s new Games app lets you challenge your friends</a> </li> <li> <a href="https://www.theverge.com/apple/683412/apples-chatgpt-integration-makes-it-easier-to-search-for-more-context-on-images-and-shop-for-things-they-see">Apple&#8217;s ChatGPT integration makes it easier to search for more context on images and shop for things they see.</a> </li> <li> <a href="https://www.theverge.com/news/675819/ios-26-macos-tahoe-26-release-date-apple-wwdc-2025">iOS 26 and macOS Tahoe are coming this fall</a> </li> <li> <a href="https://www.theverge.com/apple/683334/apples-image-playground-now-integrates-with-chatgpt">Apple&#8217;s Image Playground now integrates with ChatGPT.</a> </li> <li> <a href="https://www.theverge.com/apple/683171/apple-intelligence-takes-on-language-barriers-in-messages-and-phone-calls">Apple Intelligence takes on language barriers in messages and phone calls.</a> </li> <li> <a href="https://www.theverge.com/apple/683176/typing-indicators-in-group-chats">Typing indicators in group chats!</a> </li> <li> <a href="https://www.theverge.com/news/678305/apple-ios-26-wwdc-2025">Apple announces iOS 26 with Liquid Glass redesign</a> </li> <li> <a href="https://www.theverge.com/apple/683037/apple-gives-developers-access-to-its-on-device-apple-intelligence-model">Apple gives developers access to its on-device Apple Intelligence model.</a> </li> <li> <a href="https://www.theverge.com/news/678882/apple-vision-pro-visionos-26-announced">Apple’s visionOS 26 adds PSVR2 controller support and spatial widgets to the Vision Pro</a> </li> <li> <a href="https://www.theverge.com/news/683036/apple-wwdc-2025-protester-craig-federighi">A protester tried to interrupt Apple exec Craig Federighi at WWDC</a> </li> <li> <a href="https://www.theverge.com/news/681139/apple-tv-tvos-26-wwdc-features">Apple tvOS 26 adds AirPlay speaker support, karaoke mode, and better user profiles</a> </li> <li> <a href="https://www.theverge.com/apple/679420/apple-ipados-wwdc-2025">Apple launches iPadOS 26 with a new look and way better multitasking</a> </li> <li> <a href="https://www.theverge.com/news/679225/apple-watchos-26-wwdc-features">Apple announces watchOS 26 with a wrist flick gesture and AI ‘Workout Buddy’</a> </li> <li> <a href="https://www.theverge.com/news/682852/apple-airpods-update-wwdc-2025">Apple’s AirPods update adds camera controls and more</a> </li> <li> <a href="https://www.theverge.com/news/682636/apple-liquid-glass-design-theme-wwdc-2025">Apple’s new design language is Liquid Glass</a> </li> <li> <a href="https://www.theverge.com/news/679221/apple-ios-macos-watchos-ipados-26-name">Apple renames its operating systems</a> </li> <li> <a href="https://www.theverge.com/apple-event/677993/wwdc-2025-live-blog-apple-event-ios-ai">WWDC 2025 live blog: a fresh new look at iOS, macOS, and more</a> </li> <li> <a href="https://www.theverge.com/tech/683002/i-really-really-hope-apple-announces-way-better-ipad-multitasking-today">I really, really hope Apple announces way better iPad multitasking today.</a> </li> <li> <a href="https://www.theverge.com/apple-wwdc/682957/good-morning-from-apple-park">Good morning from Apple Park.</a> </li> <li> <a href="https://www.theverge.com/apple-event/682931/we-are-at-apple-park">We&#8217;re at Apple Park!</a> </li> <li> <a href="https://www.theverge.com/ai-artificial-intelligence/682693/apples-new-research-paper-says-ai-reasoning-isnt-all-its-cracked-up-to-be">Apple&#8217;s new research paper says AI reasoning isn&#8217;t all it&#8217;s cracked up to be.</a> </li> <li> <a href="https://www.theverge.com/news/680467/apple-wwdc-2025-keynote-livestream-ios-macos-how-to-watch">How to watch Apple’s WWDC 2025 keynote</a> </li> <li> <a href="https://www.theverge.com/apple/681739/wwdc-2025-epic-trial-apple-intelligence">Apple is on defense at WWDC</a> </li> <li> <a href="https://www.theverge.com/the-vergecast/681147/wwdc-2025-apple-preview-vergecast">The Vergecast’s WWDC 2025 preview</a> </li> <li> <a href="https://www.theverge.com/news/675945/apple-operating-systems-new-name-year-ios-macos">Apple is reportedly going to rename all of its operating systems</a> </li> <li> <a href="https://www.theverge.com/news/626680/apple-wwdc-2025-event-date-siri-ios-19">Apple’s WWDC 2025 event starts June 9th</a> </li> </ul> ]]>
+</content>
+</entry>
+<entry>
+<author>
+<name>Hayden Field</name>
+</author>
+<title type="html">
+<![CDATA[ Apple punts on Siri updates as it struggles to keep up in the AI race ]]>
+</title>
+<link rel="alternate" type="text/html" href="https://www.theverge.com/apple/682984/apple-punts-on-siri-updates-as-it-struggles-to-keep-up-in-the-ai-race"/>
+<id>https://www.theverge.com/?p=682984</id>
+<updated>2025-06-10T09:06:56-04:00</updated>
+<published>2025-06-09T18:02:42-04:00</published>
+<category scheme="https://www.theverge.com" term="AI"/>
+<category scheme="https://www.theverge.com" term="Analysis"/>
+<category scheme="https://www.theverge.com" term="Apple"/>
+<category scheme="https://www.theverge.com" term="Apple Event"/>
+<category scheme="https://www.theverge.com" term="Tech"/>
+<category scheme="https://www.theverge.com" term="WWDC 2025"/>
+<summary type="html">
+<![CDATA[ Apple's WWDC 2025 had new software, Formula 1 references, and a piano man crooning the text of different app reviews. But one key feature got the short end of the stick: Siri. Although the company continuously referenced Apple Intelligence and pushed new features like live translation for Messages, FaceTime, and phone calls, Apple's AI assistant [&#8230;] ]]>
+</summary>
+<content type="html">
+<![CDATA[ <figure> <img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/lcimg-59a693f7-75c6-4495-bc72-623021410e10.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100" /> <figcaption></figcaption> </figure> <p class="has-text-align-none">Apple's WWDC 2025 had new software, Formula 1 references, and a piano man crooning the text of different app reviews. But one key feature got the short end of the stick: Siri. </p> <p class="has-text-align-none">Although the company continuously referenced Apple Intelligence and pushed new features like live translation for Messages, FaceTime, and phone calls, Apple's AI assistant was barely mentioned. In fact, the most attention Siri got was when Apple explained that some of its previously promised features were running behind schedule.</p> <p class="has-text-align-none">To address what many saw as the elephant in the room, Apple's keynote briefly mentioned that it had updated Siri to be "more natural and more helpful," but that personalization features were still on the horizon. Those features were first mentioned at last year's WWDC, with a rollout timeline <a href="https://www.theverge.com/news/626035/apple-delays-upgraded-siri-intelligence-longer-than-we-thought">"over the course of the next year."</a></p> <p class="has-text-align-none">"We're continuing our work to deliver the features that make Siri even more personal," Craig Federighi, Apple's SVP of software engineering, said during Monday's keynote. "This work needed more time to reach our high quality bar, and we look forward to sharing more about it in the coming year."</p> <figure class="wp-block-pullquote"><blockquote><p>Apple's relative silence on Siri stands out</p></blockquote></figure> <p class="has-text-align-none">Apple has <a href="https://www.bloomberg.com/news/articles/2025-05-18/apple-intelligence-struggles-to-keep-up-with-chatgpt-ai-competitors">long …</a></p> <p><a href="https://www.theverge.com/apple/682984/apple-punts-on-siri-updates-as-it-struggles-to-keep-up-in-the-ai-race">Read the full story at The Verge.</a></p> ]]>
+</content>
+</entry>
+<entry>
+<author>
+<name>Jess Weatherbed</name>
+</author>
+<title type="html">
+<![CDATA[ China shuts down AI tools during nationwide college exams ]]>
+</title>
+<link rel="alternate" type="text/html" href="https://www.theverge.com/news/682737/china-shuts-down-ai-chatbots-exam-season"/>
+<id>https://www.theverge.com/?p=682737</id>
+<updated>2025-06-09T10:12:54-04:00</updated>
+<published>2025-06-09T10:12:54-04:00</published>
+<category scheme="https://www.theverge.com" term="AI"/>
+<category scheme="https://www.theverge.com" term="News"/>
+<category scheme="https://www.theverge.com" term="Tech"/>
+<summary type="html">
+<![CDATA[ Chinese AI companies have temporarily paused some of their chatbot features to prevent students from using them to cheat during nationwide college exams, Bloomberg reports. Popular AI apps, including Alibaba’s Qwen and ByteDance’s Doubao, have stopped picture recognition features from responding to questions about test papers, while Tencent’s Yuanbao, Moonshot’s Kimi have suspended photo-recognition services [&#8230;] ]]>
+</summary>
+<content type="html">
+<![CDATA[ <figure> <img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/257547_chat_gpt_research_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" /> <figcaption></figcaption> </figure> <p class="has-text-align-none">Chinese AI companies have temporarily paused some of their chatbot features to prevent students from using them to cheat during nationwide college exams, <a href="https://www.bloomberg.com/news/articles/2025-06-09/alibaba-tencent-freeze-ai-tools-during-high-stakes-china-exam?srnd=phx-industries"><em>Bloomberg</em> reports</a>. Popular AI apps, including Alibaba’s Qwen and ByteDance’s Doubao, have stopped picture recognition features from responding to questions about test papers, while Tencent’s Yuanbao, Moonshot’s Kimi have suspended photo-recognition services entirely during exam hours.&nbsp;</p> <p class="has-text-align-none">The increasing availability of chatbots has made it easier than ever for students around the world to cheat their way through education. Schools in the US are trying to address the issue by reintroducing paper tests, with the <a href="https://www.wsj.com/business/chatgpt-ai-cheating-college-blue-books-5e3014a6"><em>Wall Street Journal</em> reporting in May</a> that sales of blue books have boomed in universities across the country over the last two years.</p> <p class="has-text-align-none">The rigorous multi-day “gaokao” exams are sat by more than 13.3 million Chinese students between June 7-10th, each fighting to secure one of the limited spots at universities across the country. Students are already banned from using devices like phones and laptops during the hours-long tests, so the disabling of AI chatbots serves as an additional safety net to prevent cheating during exam season.</p> <p class="has-text-align-none">When asked to explain the suspension, <em>Bloomberg</em> reports the Yuanbao and Kimi chatbots responded that functions had been disabled “to ensure the fairness of the college entrance examinations.” Similarly, the DeepSeek AI tool that went viral earlier this year is also blocking its service during specific hours “to ensure fairness in the college entrance examination,” <a href="https://www.theguardian.com/world/2025/jun/09/chinese-tech-firms-freeze-ai-tools-exam-cheats-universities-gaokao">according to <em>The Guardian</em></a>. </p> <p class="has-text-align-none">We were unable to find any public announcements from the AI companies mentioned, with <em>The Guardian</em> reporting that news around the shutdowns is being driven by students on the Chinese social media platform Weibo. The gaokao entrance exam incites fierce competition as it&#8217;s the only means to secure a college placement in China, driving concerns that students may try to improve their chances with AI tools.</p> ]]>
+</content>
+</entry>
+<entry>
+<author>
+<name>Dominic Preston</name>
+</author>
+<title type="html">
+<![CDATA[ How to watch Apple’s WWDC 2025 keynote ]]>
+</title>
+<link rel="alternate" type="text/html" href="https://www.theverge.com/news/680467/apple-wwdc-2025-keynote-livestream-ios-macos-how-to-watch"/>
+<id>https://www.theverge.com/?p=680467</id>
+<updated>2025-06-10T09:05:48-04:00</updated>
+<published>2025-06-09T09:26:30-04:00</published>
+<category scheme="https://www.theverge.com" term="AI"/>
+<category scheme="https://www.theverge.com" term="Apple"/>
+<category scheme="https://www.theverge.com" term="Apple Event"/>
+<category scheme="https://www.theverge.com" term="iOS"/>
+<category scheme="https://www.theverge.com" term="macOS"/>
+<category scheme="https://www.theverge.com" term="News"/>
+<category scheme="https://www.theverge.com" term="Tech"/>
+<category scheme="https://www.theverge.com" term="WWDC 2025"/>
+<summary type="html">
+<![CDATA[ With Google and Microsoft’s developer conferences out of the way, now it’s time for Apple’s WWDC. The Cupertino company is gearing up to unveil new versions (and new numbers) for all its operating systems, as well as taking a second step at convincing everyone it’s a major player in the AI industry.&#160; Rumor has it [&#8230;] ]]>
+</summary>
+<content type="html">
+<![CDATA[ <figure> <img alt="WWDC logo" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/Apple-WWDC25-event-branding.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" /> <figcaption></figcaption> </figure> <p class="has-text-align-none">With Google and Microsoft’s developer conferences out of the way, now it’s time for Apple’s WWDC. The Cupertino company is gearing up to unveil new versions (and new numbers) for all its operating systems, as well as taking a second step at convincing everyone it’s a major player in the AI industry.&nbsp;</p> <p class="has-text-align-none">Rumor has it we may also see a whole new product category from Apple, with a HomePad smart display possibly in the offering. Here’s how to catch it all live.</p> <h2 class="wp-block-heading has-text-align-none">When is the WWDC keynote?</h2> <p class="has-text-align-none">While WWDC itself runs all week, the keynote with all the major announcements should take just a couple hours on Monday, June 9th. It’s set to start at 1PM ET / 10AM PT.</p> <h2 class="wp-block-heading has-text-align-none">Where can I watch WWDC?</h2> <p class="has-text-align-none">The keynote event is taking place in person at Apple Park in Cupertino, California, but it’ll be streamed online too. The easiest place for most people to watch it <a href="https://www.youtube.com/watch?v=0_DjDdfqtUE">will be YouTube</a>, so we’ve embedded the livestream up above. </p> <p class="has-text-align-none">If you prefer, Apple will also stream the event itself on <a href="http://apple.com">Apple.com</a> and on the Apple TV app.&nbsp;</p> <h2 class="wp-block-heading has-text-align-none">What to expect from Apple’s keynote</h2> <h3 class="wp-block-heading has-text-align-none">Updated OS names</h3> <p class="has-text-align-none"><em>Bloomberg</em> reports that Apple is renaming — or rather <a href="https://www.theverge.com/news/675945/apple-operating-systems-new-name-year-ios-macos">renumbering</a> — all of its operating systems.</p> <p class="has-text-align-none">Apparently this year they’ll all make the jump to iOS 26, macOS 26, tvOS 26, and so on, unifying version numbers while tying them to the calendar year just after they release, which should help them sound sufficiently futuristic.</p> <p class="has-text-align-none">Of course, macOS isn’t giving up its Californian names just yet. Alongside its new number, it’ll <a href="https://www.theverge.com/news/677892/gurman-macos-26-will-be-macos-tahoe">apparently be titled Tahoe</a>.</p> <h3 class="wp-block-heading has-text-align-none">A new look</h3> <p class="has-text-align-none">To go with those new numbers, Apple is reportedly planning a <a href="https://www.theverge.com/news/627149/apple-ios-ipados-macos-design-overhaul">design overhaul for its software</a>, inspired by the look of the Vision Pro’s visionOS.</p> <p class="has-text-align-none">That will mean updated icons, menus, apps, windows, and system buttons across iPhones, Macs, and iPads, with a look that <a href="https://www.bloomberg.com/news/articles/2025-06-06/apple-wwdc-2025-preview-ios-26-macos-26-new-ai-features-ipados-26-redesigns">incorporates “light and transparency.”</a> There’ll also be tweaks to toolbars, new pop-out menus that bring up extra options on a click, and larger redesigns for the Phone, Safari, and Camera apps on iPhone and iPad.</p> <h3 class="wp-block-heading has-text-align-none">HomePad hardware?</h3> <p class="has-text-align-none">This may be Apple’s best chance to show off its long-rumored smart display, a HomePod/iPad hybrid with a speaker and smart home controls.</p> <p class="has-text-align-none">It had been rumored for a March 2025 release, but expectations then <a href="https://www.theverge.com/2024/12/4/24312969/apple-smart-home-display-homepod-screen-third-quarter-2025">shifted to later this year</a>. Still, even if the release date is still a while away, Apple might want to take WWDC as an excuse to tease what it has in the works.</p> <h3 class="wp-block-heading has-text-align-none">AI all over again</h3> <p class="has-text-align-none">Apple can’t afford to ignore AI this year, even if Apple Intelligence <a href="https://www.theverge.com/apple/602270/apple-intelligence-video-container">didn’t get off to the greatest start</a>. We hope, though it might not, Apple brings a second look at its take on AI for iPhones (and beyond), even if some of the features announced a year ago still haven’t arrived.</p> <p class="has-text-align-none">Apple may have learned its lessons from last year and could focus on AI features that are a bit closer to completion, which may mean it’ll stay quiet on its <a href="https://www.theverge.com/news/669238/apple-siri-llm-ai-revamp">plans to overhaul Siri</a>. According to <em>Bloomberg</em> that’s likely to mean a focus instead on translation features, AI-powered battery optimization, and opening up Apple’s foundation AI models to third-party developers.</p> ]]>
+</content>
+</entry>
+<entry>
+<author>
+<name>Lauren Feiner</name>
+</author>
+<title type="html">
+<![CDATA[ A ban on state AI laws could smash Big Tech&#8217;s legal guardrails ]]>
+</title>
+<link rel="alternate" type="text/html" href="https://www.theverge.com/politics/681727/ro-khanna-ai-state-law-moratorium-reconciliation"/>
+<id>https://www.theverge.com/?p=681727</id>
+<updated>2025-06-06T15:30:54-04:00</updated>
+<published>2025-06-07T10:00:00-04:00</published>
+<category scheme="https://www.theverge.com" term="AI"/>
+<category scheme="https://www.theverge.com" term="Civil rights"/>
+<category scheme="https://www.theverge.com" term="Law"/>
+<category scheme="https://www.theverge.com" term="Policy"/>
+<category scheme="https://www.theverge.com" term="Politics"/>
+<category scheme="https://www.theverge.com" term="Regulation"/>
+<category scheme="https://www.theverge.com" term="Report"/>
+<category scheme="https://www.theverge.com" term="Tech"/>
+<summary type="html">
+<![CDATA[ Senate Commerce Republicans have kept a ten year moratorium on state AI laws in their latest version of President Donald Trump's massive budget package. And a growing number of lawmakers and civil society groups warn that its broad language could put consumer protections on the chopping block. Republicans who support the provision, which the House [&#8230;] ]]>
+</summary>
+<content type="html">
+<![CDATA[ <figure> <img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25544255/2162439650.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" /> <figcaption></figcaption> </figure> <p class="has-text-align-none">Senate Commerce Republicans have kept a ten year moratorium on state AI laws in <a href="https://www.commerce.senate.gov/2025/6/chairman-cruz-releases-budget-reconciliation-text">their latest version of</a> President Donald Trump's massive budget package. And a growing number of lawmakers and civil society groups warn that its broad language could put consumer protections on the chopping block.</p> <p class="has-text-align-none">Republicans who support the provision, which the House cleared as part of its "One Big Beautiful Bill Act," say it will help ensure AI companies aren't bogged down by a complicated patchwork of regulations. But opponents warn that should it survive a vote and a congressional rule that might prohibit it, Big Tech companies could be exempted from state legal guardrails for years to come, without any promise of federal standards to take their place.</p> <p class="has-text-align-none">"What this moratorium does is prevent every state in the country from having basic regulations to protect workers and to protect consumers," Rep. Ro Khanna (D-CA), whose district includes Silicon Valley, tells <em>The Verge</em> in an interview. He warns that as written, the language included in the House-passed budget reconciliation package could restrict state laws that attempt to regulate social media companies, prevent algorithmic rent discrimination, …</p> <p><a href="https://www.theverge.com/politics/681727/ro-khanna-ai-state-law-moratorium-reconciliation">Read the full story at The Verge.</a></p> ]]>
+</content>
+</entry>
+<entry>
+<author>
+<name>Alex Heath</name>
+</author>
+<title type="html">
+<![CDATA[ Popular AI apps get caught in the crosshairs of Anthropic and OpenAI ]]>
+</title>
+<link rel="alternate" type="text/html" href="https://www.theverge.com/command-line-newsletter/682102/popular-ai-apps-crosshairs-anthropic-openai"/>
+<id>https://www.theverge.com/?p=682102</id>
+<updated>2025-06-06T20:38:50-04:00</updated>
+<published>2025-06-06T20:38:50-04:00</published>
+<category scheme="https://www.theverge.com" term="AI"/>
+<category scheme="https://www.theverge.com" term="Command Line"/>
+<category scheme="https://www.theverge.com" term="OpenAI"/>
+<category scheme="https://www.theverge.com" term="Tech"/>
+<summary type="html">
+<![CDATA[ Battlelines are being drawn between the major AI labs and the popular applications that rely on them. This week, both Anthropic and OpenAI took shots at two leading AI apps: Windsurf, one of the most popular vibe coding tools, and Granola, a buzzy AI app for taking meeting notes. "With less than five days of [&#8230;] ]]>
+</summary>
+<content type="html">
+<![CDATA[ <figure> <img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK485_STK414_AI_SAFETY_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" /> <figcaption></figcaption> </figure> <p class="has-text-align-none">Battlelines are being drawn between the major AI labs and the popular applications that rely on them.</p> <p class="has-text-align-none">This week, both Anthropic and OpenAI took shots at two leading AI apps: Windsurf, one of the most popular vibe coding tools, and Granola, a buzzy AI app for taking meeting notes.</p> <p class="has-text-align-none">"With less than five days of notice, Anthropic decided to cut off nearly all of our first-party capacity to all Claude 3.x models," Windsurf CEO <strong>Varun Mohan</strong> <a href="https://x.com/_mohansolo/status/1930034960385356174">wrote on X</a> this week, noting that "we wanted to pay them for the full capacity." An additional <a href="https://windsurf.com/blog/anthropic-models">statement on Windsurf's website</a> said: "We are concerned that Anthropic's conduct will harm many in the industry, not just Windsurf."</p> <p class="has-text-align-none">Here, Mohan's company is collateral damage in Anthropic's rivalry with OpenAI, which has reportedly been in talks to acquire Windsurf for about $3 billion. The deal hasn't been confirmed, but even the spectre of it happening was enough for Anthropic to cut off one of the most popular apps that it powers. After a spokesperson <a href="https://techcrunch.com/2025/06/03/windsurf-says-anthropic-is-limiting-its-direct-access-to-claude-ai-models/">told <em>TechCrunch's</em> <strong>Maxwell Zeff</strong></a> that Anthropic was "prioritizing capacity for sustainable partnerships," co-founder <strong>Jared Kaplan</strong> put it more bluntly. </p> <p class="has-text-align-none">"We really are just trying to enable our customers w …</p> <p><a href="https://www.theverge.com/command-line-newsletter/682102/popular-ai-apps-crosshairs-anthropic-openai">Read the full story at The Verge.</a></p> ]]>
+</content>
+</entry>
+<entry>
+<author>
+<name>Emma Roth</name>
+</author>
+<title type="html">
+<![CDATA[ Google Gemini can now handle scheduled tasks like an assistant ]]>
+</title>
+<link rel="alternate" type="text/html" href="https://www.theverge.com/news/681762/google-gemini-scheduled-actions-planned-tasks"/>
+<id>https://www.theverge.com/?p=681762</id>
+<updated>2025-06-06T15:39:34-04:00</updated>
+<published>2025-06-06T15:39:34-04:00</published>
+<category scheme="https://www.theverge.com" term="AI"/>
+<category scheme="https://www.theverge.com" term="Apps"/>
+<category scheme="https://www.theverge.com" term="Google"/>
+<category scheme="https://www.theverge.com" term="News"/>
+<category scheme="https://www.theverge.com" term="Tech"/>
+<summary type="html">
+<![CDATA[ Google is taking another step toward making Gemini a more helpful assistant. It’s rolling out “scheduled actions,” a feature AI Pro and AI Ultra subscribers can use to ask the AI assistant to perform tasks at specific times, like providing a summary of their calendar at the end of each day or generating ideas for [&#8230;] ]]>
+</summary>
+<content type="html">
+<![CDATA[ <figure> <img alt="" data-caption="" data-portal-copyright="" data-has-syndication-rights="1" src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100" /> <figcaption></figcaption> </figure> <p class="has-text-align-none">Google is taking another step toward making Gemini a more helpful assistant. <a href="https://blog.google/products/gemini/scheduled-actions-gemini-app/">It’s rolling out</a> “scheduled actions,” a feature AI Pro and AI Ultra subscribers can use to ask the AI assistant to perform tasks at specific times, like providing a summary of their calendar at the end of each day or generating ideas for blog posts every Monday.</p> <p class="has-text-align-none">Users can also have Gemini complete one-off tasks using this feature, such as asking for a summary of an award show the day after it happens, Google says. “Just tell Gemini what you need and when, and it will take care of the rest,” the company writes in a post announcing the change.</p> <p class="has-text-align-none">Gemini subscribers can manage planned tasks by heading to the “scheduled actions” page in the Gemini app’s settings. <a href="https://www.androidauthority.com/google-gemini-scheduled-actions-apk-teardown-3544727/"><em>Android Authority</em> first spotted</a> an early version of the feature in April, which comes as Google aims to have its <a href="https://www.theverge.com/2024/12/11/24317436/google-deepmind-project-astra-mariner-ai-agent">AI assistant perform more agent-like tasks</a>.</p> <p class="has-text-align-none">OpenAI’s ChatGPT offers a similar feature to subscribers that allows <a href="https://www.theverge.com/2025/1/14/24343528/openai-chatgpt-repeating-tasks-agent-ai">the AI chatbot to send you reminders or perform</a> recurring actions.</p> ]]>
+</content>
+</entry>
+</feed>
